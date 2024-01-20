@@ -1,8 +1,10 @@
 # Sales-Analysis
 
-
+![Alt text](![image](https://github.com/tanumalik12/Sales-Analysis/assets/128899444/bb992100-a6a7-46de-ab8f-8f917cd0ea54))
 
 **Project Overview**  ----
+
+
 Task : Data Exploration and Summary 
 Description: Explore a dataset and summarize its key characteristics. 
 Task Documentation: 
@@ -25,30 +27,43 @@ Documentation:
 
 For this task, I have chosen the "Titanic" dataset from Kaggle. The dataset contains information about the passengers who were aboard the Titanic, including their demographics, cabin class, ticket fare.
 
+
+
 **Data Loading** ---
+
 I loaded the dataset into a Google Colab using the pandas library.
 I also loaded various libraries of python like: numpy, pandas, matplotlib, seaborn, etc.
 
+
 **Codes and Resources Use** ---
+
 I used Python to code my project.
 Resource: Google Colab.
 
+
 **Python Packages Used** ---
+
 packages used as -
 Data Manipulation: Packages used for handling and importing dataset such as pandas, numpy and others.
 Data Visualization: Include packages which were used to plot graphs in the analysis or for understanding the ML modelling such as seaborn, matplotlib and others.
+
+
 
 **Data Preprocessing**
 Missing Values:
 I identified columns with missing values using the isnull() function and calculated the percentage of missing values in each column.
 
-Data Visualization:
+**Data Visualization*:
+
 I created visualizations like histograms, scatter plots, and bar charts to understand the data distribution. Here are a few examples:
 -Histogram of Age distribution
 -Bar chart of the number of passengers in each cabin class
 -Scatter plot of age vs fare
 
+
+
 **Code structure** ---
+
 Here is the basic suggested skeleton for my data analytics repo 
 ├── data
 │   ├── data1.csv
@@ -60,5 +75,8 @@ Here is the basic suggested skeleton for my data analytics repo
 ├── data_visualisation.ipynb
 ├── README.md
 
+
+
 **Results and evaluation** ---
+
 n class, ticket fare, and whether or not they survived the disaster. The dataset has 891 rows and 12 columns. The data types of different columns include integer, float, and object. The column "Age" has 19.87% missing values, "Cabin" has 77.10% missing values, and "Embarked" has 0.22% missing values. From the initial exploration of the dataset, we can see that the majority of the passengers were in third class, and there were more male passengers than female passengers. The age distribution is slightly right-skewed, with most passengers being between 20 and 40 years old. We can also see that there is a positive correlation between age and fare.
