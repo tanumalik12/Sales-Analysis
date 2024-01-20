@@ -10,21 +10,21 @@ Task : Data Exploration and Summary
 Description: Explore a dataset and summarize its key characteristics. 
 Task Documentation: 
 Dataset Selection: 
-● Choose a dataset for analysis, such as a CSV file containing sales data. 
+-● Choose a dataset for analysis, such as a CSV file containing sales data. 
 Data Loading: 
-● Load the dataset into a suitable tool like Python using libraries like pandas. 
+-● Load the dataset into a suitable tool like Python using libraries like pandas. 
 Overview and Summary: 
-● Display the first few rows and basic summary statistics of the dataset. 
+-● Display the first few rows and basic summary statistics of the dataset. 
 Data Types: 
-● Identify the data types of different columns (numeric, categorical, datetime, etc.). 
+-● Identify the data types of different columns (numeric, categorical, datetime, etc.). 
 Missing Values: 
-● Identify columns with missing values and decide on handling strategies 
+-● Identify columns with missing values and decide on handling strategies 
 (imputation, removal, etc.). 
 Data Visualization: 
-● Create visualizations like histograms, scatter plots, and bar charts to understand 
+-● Create visualizations like histograms, scatter plots, and bar charts to understand 
 the data distribution. 
 Documentation: 
-● Describe the dataset's purpose, your initial observations, and the summary
+-● Describe the dataset's purpose, your initial observations, and the summary
 
 For this task, I have chosen the "Titanic" dataset from Kaggle. The dataset contains information about the passengers who were aboard the Titanic, including their demographics, cabin class, ticket fare.
 
@@ -54,7 +54,7 @@ Data Visualization: Include packages which were used to plot graphs in the analy
 Missing Values:
 I identified columns with missing values using the isnull() function and calculated the percentage of missing values in each column.
 
-**Data Visualization*:
+*Data Visualization*:
 
 I created visualizations like histograms, scatter plots, and bar charts to understand the data distribution. Here are a few examples:
 -Histogram of Age distribution
