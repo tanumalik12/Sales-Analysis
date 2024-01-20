@@ -1,6 +1,7 @@
 # Sales-Analysis
 
-(![image](https://github.com/tanumalik12/Sales-Analysis/assets/128899444/bb992100-a6a7-46de-ab8f-8f917cd0ea54))
+![image](https://github.com/tanumalik12/Sales-Analysis/assets/128899444/bb992100-a6a7-46de-ab8f-8f917cd0ea54)
+
 
 **Project Overview**  ----
 
